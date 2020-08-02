@@ -1,3 +1,3 @@
 # anova
 
-como fazer anova
+fazer anova
