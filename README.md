@@ -1,2 +1,3 @@
 # anova
- aov model
+
+como fazer anova
